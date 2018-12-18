@@ -4,7 +4,7 @@ my name is Khalaf
 
 This page is created as a part of programming module requarimint in the GIS Master Course at The University of Leeds.
 The 'Hellow World' Model was developed throgh the course and I have attatched all the practices files. The final model can be seen in a folder called 'Final_Model'
-You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Python%20Scripts) to go and preview the content my web page or you click on the above '  viow my githubpage.
+You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Python%20Scripts.md) to go and preview the content my web page or you click on the above '  viow my githubpage.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
