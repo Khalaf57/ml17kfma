@@ -3,7 +3,7 @@ My name is **Khalaf** and I am currently studying a Geographical Informations Sy
 I am interested in Human Geography more than other aspects of geography. 
 
 
-This page was created as a part of programming module requarimint in the GIS Master Course at The University of Leeds.
+This page was created as a part of programming module requirement in the GIS Master Course at _The University of Leeds_.
 
 The "Hellow World" Model was developed through the course and I have attached all the practices which are 39 files. 
 This model contains two Python files mode.py and agentframwork.py  
