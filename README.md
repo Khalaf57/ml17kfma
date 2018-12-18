@@ -10,11 +10,15 @@ Moreover, the model creats agents which could be people or animales in the space
 such as an agent ability to move from place to another and agent  intractions with each other and with the environment
 which has been represented by values of numbers. 
 
-The agent communications are various due to random options and each agent should share the food collected within a certain distance which is here 50 units and represented by neighborhood.  The initial location of agents in the environment  are made randomly and it can be obtained from a web page. However, I could not utilise the coordinates of agents and implement x and y values in my model.
+The agent communications are various due to random options and each agent should share the food collected within a certain distance which is here 50 units and represented by neighborhood. 
+The initial location of agents in the environment  are made randomly and it can be obtained from a web page.
+However, I could not utilise the coordinates of agents and implement x and y values in my model.
+
+
 The final model can be seen in a folder called "Final_Model"
 
-You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Python%20Scripts) to go and preview the content my
-web page or you can click on the above  "View on GitHub"
+You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Python%20Scripts) to go and preview the content of my
+web page or you can click on the above  "View on GitHub" to access it .
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -30,8 +34,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
