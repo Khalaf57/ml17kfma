@@ -17,7 +17,7 @@ The initial location of agents in the environment  are made randomly and it can 
 However, I could not utilise the coordinates of agents and implement x and y values in my model.
 
 
-The final model can be seen in a folder called "Final_Model"
+The final model can be seen in a folder called **"Final_Model"**
 
 You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Python%20Scripts) to go and preview the content of my
 web page or you can click on the above  "View on GitHub" to access it .
