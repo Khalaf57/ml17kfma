@@ -2,9 +2,18 @@
 my name is Khalaf
 
 
-This page is created as a part of programming module requarimint in the GIS Master Course at The University of Leeds.
-The 'Hellow World' Model was developed throgh the course and I have attatched all the practices files. The final model can be seen in a folder called 'Final_Model'
-You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Python%20Scripts.md) to go and preview the content my web page or you click on the above '  viow my githubpage.
+This page was created as a part of programming module requarimint in the GIS Master Course at The University of Leeds.
+The "Hellow World" Model was developed through the course and I have attached all the practices files. This model contains two Python files mode.py and agentframwork.py  
+
+Moreover, the model creats agents which could be people or animales in the space and it adjust their behaviors such as an agent moving
+ability from place to another and agents intractions with each other and with the environment which has been represented by values of
+numbers. The agent communications are various due to random options and each agent should share the food collected within a distance
+which is here 50 units.
+The final model can be seen in a folder called "Final_Model"
+
+You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Python%20Scripts) to go and preview the content my
+web page or you can click on the above  "View on GitHub"
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
