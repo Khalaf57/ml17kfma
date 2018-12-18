@@ -8,9 +8,9 @@ This page was created as a part of programming module requarimint in the GIS Mas
 The "Hellow World" Model was developed through the course and I have attached all the practices which are 39 files. 
 This model contains two Python files mode.py and agentframwork.py  
 
-Moreover, the model creats agents which could be people or animales in the space and it describe their behaviors
-such as an agent ability to move from place to another and agent  intractions with each other and with the environment
-which has been represented by values of numbers. 
+Moreover, the model creates agents which could be people or animals in the space and it describe their behaviors 
+such as an agent ability to move from place to another and agent interactions with each other and with
+the environment which has been represented by values of numbers
 
 The agent communications are various due to random options and each agent should share the food collected within a certain distance which is here 50 units and represented by neighborhood. 
 The initial location of agents in the environment  are made randomly and it can be obtained from a web page.
