@@ -21,13 +21,26 @@ You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/tree/master/Pyt
 web page or you can click on the above  "View on GitHub" to access it .
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Examples of codes 
+
 
 ```markdown
+class Agent():
+    
+    def __init__(self, name, environment, randomSeed, probabilityMove, printlevel):
+        random.seed(randomSeed)
+        self.x = random.randint(0, 299)
+        self.y = random.randint(0, 299)
+        self.name = name
+        self.environment = environment
+        self.store = 0
+        self.probabilityMove = probabilityMove
+        self.printlevel = printlevel
+        pass
+    
+```
 Syntax highlighted code block
 
 # Khalaf
