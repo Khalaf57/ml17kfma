@@ -1,10 +1,11 @@
 ## Hellow World
-my name is Khalaf
+my name is **Khalaf** and I am currently studying a Geographical Informations Systems (GIS) at the University of Leeds 
 
 
 This page was created as a part of programming module requarimint in the GIS Master Course at The University of Leeds.
 
-The "Hellow World" Model was developed through the course and I have attached all the practices files. This model contains two Python files mode.py and agentframwork.py  
+The "Hellow World" Model was developed through the course and I have attached all the practices which are 39 files. 
+This model contains two Python files mode.py and agentframwork.py  
 
 Moreover, the model creats agents which could be people or animales in the space and it describe their behaviors
 such as an agent ability to move from place to another and agent  intractions with each other and with the environment
@@ -41,11 +42,7 @@ class Agent():
         pass
     
 ```
-Syntax highlighted code block
 
-# Khalaf
-## Header 2
-### Header 3
 
 
 1. Numbered
