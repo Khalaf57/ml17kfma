@@ -2,7 +2,9 @@
 my name is Khalaf
 
 
-You can use the [editor on GitHub](https://github.com/Khalaf57/ml17kfma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page is created as a part of programming module requarimint in the GIS Master Course at The University of Leeds.
+The 'Hellow World' Model was developed throgh the course and I have attatched all the practices files. The final model can be seen in a folder called 'Final_Model'
+You can press on [ml17kfma](https://github.com/Khalaf57/ml17kfma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
